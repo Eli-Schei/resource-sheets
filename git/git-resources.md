@@ -10,6 +10,7 @@ _Note: Resources that cost money are marked with 💰. I'm not sponcored by any 
 
 ## Articles and books 📚
 * [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) (Hubspot)
+* [Commit Guidelines](https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#_commit_guidelines) ( git-scm .com book )
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/) (Chris Beams)
 * [Git essentials](https://www.packtpub.com/product/git-essentials/9781785287909)  (Ferdinando Santacroce) 💰
 
