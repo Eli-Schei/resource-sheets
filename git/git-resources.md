@@ -20,4 +20,7 @@ _Note: Resources that cost money are marked with 💰. I'm not sponcored by any 
 
 ## Tools
 Here are some tools that give you a visual into git
-...
+
+* [Sourcetree](https://www.sourcetreeapp.com/)
+* [GitHub Desktop](https://desktop.github.com/)
+* [GitKraken](https://www.gitkraken.com/download) 💰
