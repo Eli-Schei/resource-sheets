@@ -15,7 +15,7 @@ _Note: Resources that cost money are marked with 💰. I'm not sponcored by any 
 * [Git essentials](https://www.packtpub.com/product/git-essentials/9781785287909)  (Ferdinando Santacroce) 💰
 
 ## Video Tutorials 📺
-...
+* [Learn Git In 15 minutes ](https://www.youtube.com/watch?v=USjZcfj8yxE) (Colt Steele)
 
 
 ## Tools
