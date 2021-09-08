@@ -14,7 +14,6 @@ git clone <url>
 
 //Clone an existing repo into a new folder 
 git clone <url> 'new folder name'
-
 ```
 ### Status
 ```
@@ -28,7 +27,6 @@ git add <file-path/filename>
 
 //Add all updated files
 git add .
-
 ```
 ### Commit
 _There are some resources on writing good commit messages in the ["Git resources overview"](./git-resources.md)_
@@ -64,7 +62,6 @@ git merge <branch-A-name>
 
 //Delete branch
 git branch -d <branch name>
-
 ```
 
 ## UPDATE
@@ -76,7 +73,6 @@ git fetch
 
 //pull latest changes from origin (does a fetch followed by a merge)
 git pull
-
 ```
 ## REVERT 
 ```
@@ -95,6 +91,4 @@ _There are a lot of great tools for viewing merge conflicts, and if you are new 
 ```
 //View the difference that creates the conflict
 git diff
-
-
 ```
