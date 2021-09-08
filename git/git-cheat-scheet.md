@@ -54,6 +54,8 @@ git chekout <branch name>
 //Create new branch (branch-B) based on existing branch(branch-A) and switch to it
 git checkout -b <branch-B-name> <branch-A-name>
 
+//Fetch and create local branch based on remote branch
+git fetch && git checkout <remote-branch-name>
 
 //Merge branch (branch-A) into other branch (branch-B)
 git chekout <branch-B-name>
