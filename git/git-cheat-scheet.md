@@ -66,9 +66,10 @@ git branch -d <branch name>
 ```
 
 ## CHERRY-PICK
+```
 //If you want to get just one commit from one branch to another you can cherrypick it
 git cherry-pick < commitID >
-
+```
 
 ## UPDATE
 
