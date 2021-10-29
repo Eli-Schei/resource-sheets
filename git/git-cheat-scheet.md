@@ -99,3 +99,12 @@ _There are a lot of great tools for viewing merge conflicts, and if you are new 
 //View the difference that creates the conflict
 git diff
 ```
+
+## CHANGE REMOTE
+```
+git remote set-url origin <new remote url>
+```
+Verify remote 
+```
+git remote -v
+```
