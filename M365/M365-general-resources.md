@@ -15,3 +15,8 @@ Keep up to date with what is moving in the community by listening to podcasts
 * [Microsoft 365 developer podcast](https://www.m365devpodcast.com/)
 * [PnP weekly](https://pnpweekly.podbean.com/)
 * [Microsoft Cloud show](https://www.microsoftcloudshow.com/)
+
+**Other resources**
+* [PnP JS Library](https://pnp.github.io/pnpjs/)
+* [HtwoO - open source alternative for Microsoft’s Fluent UI Web Design system](https://lab.n8d.studio/htwoo/)
+* [Fluent UI Web Design system](https://developer.microsoft.com/en-us/fluentui)
