@@ -19,7 +19,7 @@ pac auth create --url https://myenvironment......
 //you can use auth list to see current connecions
 pac auth list
 
-//then use pcf push to build a temporary solution and then push it to the environment vi authenticated with
+//then use pcf push to build a temporary solution and then push it to the environment you authenticated with
 pac pcf push --publisher-prefix ehs
 ```
 
