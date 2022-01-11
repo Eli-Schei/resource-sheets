@@ -5,6 +5,7 @@ Getting started
 * [Get started with apps for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview)
 * [What are Teams apps](https://docs.microsoft.com/en-us/microsoftteams/platform/overview)
 * [Teams toolkit](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)
+* [Yeoman generator for Teams](https://github.com/pnp/generator-teams)
 
 ### Manage apps and settings
 
