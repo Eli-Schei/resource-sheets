@@ -19,6 +19,9 @@ pac auth create --url https://myenvironment......
 //you can use auth list to see current connecions
 pac auth list
 
+//select connection
+pac auth select --index 2
+
 //then use pcf push to build a temporary solution and then push it to the environment you authenticated with
 //When the code is updated you just need to use this command to push the changes again
 pac pcf push --publisher-prefix ehs
