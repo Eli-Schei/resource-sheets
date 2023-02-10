@@ -74,4 +74,4 @@ Then use the solution import command to import the solution.
 ```powershell
 pac solution import --path ".\bin\Debug\solutionName.zip" -pc
 ```
-> _Note! The `-pc` flag stands for “publish changes” and when working with unmanaged solutions you need to add this flag for the PCF components to update. If you try to import the solution without this flag, or you do it manually, the solution import will work – but the changes in your PCF component won’t show up. _
+> _Note! The `-pc` flag stands for “publish changes” and when working with unmanaged solutions you need to add this flag for the PCF components to update. If you try to import the solution without this flag, or you do it manually, the solution import will work – but the changes in your PCF component won’t show up._
